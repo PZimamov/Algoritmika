@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: #00FFFF;
+    margin: 15px  ; 
+    padding: 15px   ; 
+}
+header a {
+    border-radius: 15px;
+    border: 1px solid white;
+    background-color: white;
+    text-decoration: none;
+    margin: 10px;
+    padding: 5px;
+}
+h1 {
+    color: blue;
+    font-size: 60px;
+    margin: 15px;
+    text-align: center;
+}
+footer {
+    background-color: pink;
+    margin: 10px;
+    padding: 10px;
+    
+}
+footer p {
+    background-color: white;
+}
+nav a {
+    margin: 15px;
+    padding: 15px;
+    text-decoration: none ;
+    color: red;   
+}
+h2 {
+    color: red;
+    text-align: center;
+}
+a {
+    color: red
+}
+.gg {
+    width: 700px;
+
+}
+.rt {
+    color: blueviolet;
+}
+.tt {
+    width: 135px
+}
+.pp {
+    color: blueviolet;
+    
+}
